@@ -48,6 +48,9 @@ With the rise of misinformation, distinguishing between **real and fake news** h
 
 ### 🔥 **Heatmaps & Confusion Matrices**
 (Include images of confusion matrices and precision-recall curves)
+- **Rule Based Approach:**
+     - Classification Report: 
+
 
 ## 🔮 **Future Improvements**
 - Combine **BERT + Rule-Based Approach** for interpretability.
