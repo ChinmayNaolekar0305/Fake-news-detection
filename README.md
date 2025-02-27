@@ -1,4 +1,5 @@
 # 📰 Fake News Detection System
+![413f7eda-5991-660f-a0e9-36d5a7ee2754](https://github.com/user-attachments/assets/dbc7791c-349f-4f45-ba81-63a429009373)
 
 
 
