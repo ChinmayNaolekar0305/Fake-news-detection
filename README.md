@@ -1,6 +1,6 @@
 # 📰 Fake News Detection System
 
-![Fake News Detection Banner](https://github.com/ChinmayNaolekar0305/[Fake-news-detection]/Images/Classification Report Rule Based.png?raw=true)
+
 
 ## 📌 **Project Overview**
 With the rise of misinformation, distinguishing between **real and fake news** has become a crucial challenge. This project builds an **NLP-powered fake news detection system** using:
@@ -49,7 +49,15 @@ With the rise of misinformation, distinguishing between **real and fake news** h
 ### 🔥 **Heatmaps & Confusion Matrices**
 (Include images of confusion matrices and precision-recall curves)
 - **Rule Based Approach:**
-     - Classification Report: 
+     - Classification Report: ![Classification Report Rule Based](https://github.com/user-attachments/assets/f197ca20-4291-4d07-bd13-9ca904c1c755)
+     - Heatmap: ![Heatmap Rule Based](https://github.com/user-attachments/assets/dad35d59-a51f-4f3d-be09-0b62cac93079)
+       
+- **Naive Bayes:**
+     - Classification Report: ![Classification Report Naive Bayes](https://github.com/user-attachments/assets/30413f17-426d-45fb-acc1-0016bae43344)
+     - Heatmap: ![Heatmap NB](https://github.com/user-attachments/assets/2e666bc3-46a0-42c1-a127-1d3ca7f5e8b5)
+
+- **Bert:**
+     - Classification Report: ![Classification Report BERT](https://github.com/user-attachments/assets/769a40da-55c4-4ca6-80f9-9912cd6894ec)
 
 
 ## 🔮 **Future Improvements**
