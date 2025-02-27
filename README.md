@@ -1,6 +1,6 @@
 # 📰 Fake News Detection System
 
-![Fake News Detection Banner](https://Images/Classification Report Rule Based.png)
+![Fake News Detection Banner](https://github.com/ChinmayNaolekar0305/[Fake-news-detection]/Images/image.jpg?raw=true)
 
 ## 📌 **Project Overview**
 With the rise of misinformation, distinguishing between **real and fake news** has become a crucial challenge. This project builds an **NLP-powered fake news detection system** using:
